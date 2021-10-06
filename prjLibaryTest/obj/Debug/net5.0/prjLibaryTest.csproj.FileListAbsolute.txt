@@ -1,0 +1,12 @@
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\bin\Debug\net5.0\prjLibaryTest.deps.json
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\bin\Debug\net5.0\prjLibaryTest.dll
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\bin\Debug\net5.0\ref\prjLibaryTest.dll
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\bin\Debug\net5.0\prjLibaryTest.pdb
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.csprojAssemblyReference.cache
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.AssemblyInfoInputs.cache
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.AssemblyInfo.cs
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.csproj.CoreCompileInputs.cache
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.dll
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\ref\prjLibaryTest.dll
+C:\Users\19003408\source\repos\prjLibaryTest\prjLibaryTest\obj\Debug\net5.0\prjLibaryTest.pdb
